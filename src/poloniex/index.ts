@@ -3,12 +3,21 @@ import * as Promise from 'bluebird';
 import * as _ from 'lodash';
 import * as json2csv from 'json2csv';
 import * as moment from 'moment';
+import { Exchange } from '../models/Exchange';
 
-const NAME: string = 'Poloniex';
 const ONE_HOUR_IN_MS = 1000 * 60 * 60;
 
-export class Poloniex {
+export class Poloniex extends Exchange {
   public static BASE_URL = 'https://poloniex.com';
+
+  constructor() {
+    super();
+    this.name = 'Poloniex';
+  }
+
+  supportedOperations(): Array<string> {
+    return ['getTradeHistory', 'getMarkets'];
+  }
 
   getTradeHistory(market = 'BTC_ETH',
     start=moment.utc().unix() - ONE_HOUR_IN_MS,
@@ -23,10 +32,17 @@ export class Poloniex {
     };
 
     return request(options)
+      .then(data => {
+        if (data.error) {
+          throw new Error(data.error);
+        }
+
+        return data;
+      })
       .then(data => data.map(record => {
         const transformed = {
           market,
-          source: NAME,
+          source: this.name,
         };
 
         _.set(record, 'date', moment.utc(_.get(record, 'date')).format());
@@ -57,7 +73,7 @@ export class Poloniex {
             name: market,
             baseAssetSymbol,
             marketAssetSymbol,
-            source: NAME,
+            source: this.name,
           }, entry);
         });
       })
@@ -72,7 +88,7 @@ export class Poloniex {
   }
 }
 
-const p: Poloniex = new Poloniex();
-p.getTradeHistory()//.getMarkets()
-  .then(data => console.log(data))
-  .catch(err => console.error('ZOMG', err));
+// const p: Poloniex = new Poloniex();
+// p.getTradeHistory()//.getMarkets()
+//   .then(data => console.log(data))
+//   .catch(err => console.error('ZOMG', err));

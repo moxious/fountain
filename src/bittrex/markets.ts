@@ -295,5 +295,3 @@ export const chosenMarkets: Array<string> = all.filter(market => {
 
   return true;
 });
-
-console.log(chosenMarkets);

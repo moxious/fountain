@@ -6,6 +6,7 @@ import { s3 } from '../s3/index';
 import * as fs from 'fs';
 import * as json2csv from 'json2csv';
 import * as Promise from 'bluebird';
+import { Exchange } from '../models/Exchange';
 import { chosenMarkets as ChosenMarkets } from './markets';
 
 import {
@@ -14,12 +15,16 @@ import {
 } from '../models/fields';
 import { Currency, CurrencyCSV, MarketCSV } from './interfaces';
 
-export class Bittrex {
+export class Bittrex extends Exchange {
   public logfile: string = 'bittrex-log.json';
   private s3: AWS.S3 = null;
   private counter: number = 0;
 
   constructor() {
+    super();
+
+    this.name = 'Bittrex';
+
     bittrex.options({
       'apikey': env('FOUNTAIN_BITTREX_API_KEY'),
       'apisecret': env('FOUNTAIN_BITTREX_API_SECRET'),
@@ -99,6 +104,10 @@ export class Bittrex {
         }));
       });
     });
+  }
+
+  supportedOperations(): Array<string> {
+    return ['getMarketHistory', 'getOrderBook', 'getMarkets', 'getCurrencies'];
   }
 
   getMarketHistory(market = 'BTC-LTC') {
