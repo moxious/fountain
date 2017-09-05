@@ -1,7 +1,7 @@
 {
-  "name": "@uiuxengineering/node-typescript-seed",
-  "version": "1.0.5",
-  "description": "Node Typescript seed.",
+  "name": "fountain",
+  "version": "0.0.1",
+  "description": "Fountain; utilities for working with cryptocurrency APIs",
   "main": "index.ts",
   "typings": "types/index.d.ts",
   "scripts": {
@@ -47,8 +47,8 @@
     "watch": "gulp watch",
     "watch.samples": "gulp watch.samples"
   },
-  "repository": "https://github.com/UIUXEngineering/node-typescript-seed.git",
-  "author": "Jerry Orta <jerryorta.dev@gmail.com>",
+  "repository": "https://github.com/moxious/fountain.git",
+  "author": "Moxious <moxious@oldhat.org>",
   "license": "MIT",
   "dependencies": {
     "@types/aws-sdk": "^2.7.0",

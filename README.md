@@ -1,9 +1,13 @@
 # fountain
 
+Utilities for working with multiple different cryptocurrency exchange APIs.
+
+Currently working primarily on Poloniex, Coinbase, and Bittrex.
+
 This project is generated from the [node-typescript-seed](https://github.com/UIUXEngineering/node-typescript-seed).
 
 # Table of Contents
-- [Install](#install)
+- [Setup](#setup)
 - [API](#api)
 - [TypeScript Usage](#typescript-usage)
 - [ES6 Usage](#es6-usage)
@@ -16,8 +20,13 @@ This project is generated from the [node-typescript-seed](https://github.com/UIU
 
 `yarn install`
 
+Other useful quick commands:
+- `yarn build` (generates es6, commonjs)
+- `yarn docker` (generates a docker image; under development, some tweaking to init.sh may be necessary)
+- `yarn test` (runs unit tests)
+
 # API
-TODO - document your api here
+TODO - rapidly evolving.
 
 ## feature
 ### Return Data Type
