@@ -1,0 +1,258 @@
+"marketAssetSymbol","baseAssetSymbol","marketAssetName","baseAssetName","minTradeSize","name","active","created","notice","sponsored","logoURL"
+"LTC","BTC","Litecoin","Bitcoin",1e-8,"BTC-LTC",true,"2014-02-13T00:00:00",,,"https://i.imgur.com/R29q3dD.png"
+"DOGE","BTC","Dogecoin","Bitcoin",1e-8,"BTC-DOGE",true,"2014-02-13T00:00:00",,,"https://i.imgur.com/e1RS4Hn.png"
+"VTC","BTC","Vertcoin","Bitcoin",1e-8,"BTC-VTC",true,"2014-02-13T00:00:00",,,"https://i.imgur.com/8GLoaDg.png"
+"PPC","BTC","Peercoin","Bitcoin",1e-8,"BTC-PPC",true,"2014-02-13T00:00:00",,,
+"FTC","BTC","Feathercoin","Bitcoin",1e-8,"BTC-FTC",true,"2014-02-13T00:00:00",,,"https://i.imgur.com/FcYsj9T.png"
+"RDD","BTC","ReddCoin","Bitcoin",1e-8,"BTC-RDD",true,"2014-02-25T09:00:00",,,"https://imgur.com/uIT8UBW.png"
+"NXT","BTC","NXT","Bitcoin",1e-8,"BTC-NXT",true,"2014-03-03T09:00:00",,,"https://i.imgur.com/jc49cD4.png"
+"DASH","BTC","Dash","Bitcoin",1e-8,"BTC-DASH",true,"2014-03-11T08:00:00",,,"https://i.imgur.com/qiIMHZr.png"
+"POT","BTC","PotCoin","Bitcoin",1e-8,"BTC-POT",true,"2014-03-11T08:00:00",,,"https://i.imgur.com/9JIkbM8.png"
+"BLK","BTC","BlackCoin","Bitcoin",1e-8,"BTC-BLK",true,"2014-03-14T09:00:00",,false,"https://i.imgur.com/qFADFqo.png"
+"EMC2","BTC","Einsteinium","Bitcoin",1e-8,"BTC-EMC2",true,"2014-12-24T00:00:00",,,"https://i.imgur.com/H8fekUT.png"
+"XMY","BTC","Myriad","Bitcoin",1e-8,"BTC-XMY",true,"2014-03-15T08:00:00",,,"https://i.imgur.com/tsQWHT9.png"
+"AUR","BTC","AuroraCoin","Bitcoin",1e-8,"BTC-AUR",true,"2014-03-16T22:00:00",,,"https://i.imgur.com/mJGGNs5.png"
+"EFL","BTC","ElectronicGulden","Bitcoin",1e-8,"BTC-EFL",true,"2014-03-20T20:00:00",,,"https://i.imgur.com/cCXR4CJ.png"
+"GLD","BTC","GoldCoin","Bitcoin",1e-8,"BTC-GLD",true,"2014-03-22T16:00:00",,,"https://i.imgur.com/BfrLULz.jpg"
+"SLR","BTC","SolarCoin","Bitcoin",1e-8,"BTC-SLR",true,"2014-03-23T06:00:00",,,"https://i.imgur.com/G9IzYsx.png"
+"PTC","BTC","PesetaCoin ","Bitcoin",1e-8,"BTC-PTC",true,"2014-03-27T18:00:00",,,"https://i.imgur.com/Nymup76.png"
+"GRS","BTC","Groestlcoin","Bitcoin",1e-8,"BTC-GRS",true,"2014-04-03T05:00:00",,,"https://i.imgur.com/ZOKaILH.png"
+"NLG","BTC","Gulden","Bitcoin",1e-8,"BTC-NLG",true,"2014-04-04T22:00:00",,false,"https://i.imgur.com/0ylgAGm.png"
+"RBY","BTC","RubyCoin","Bitcoin",1e-8,"BTC-RBY",true,"2014-04-05T08:00:00",,false,"https://i.imgur.com/D8nXRN9.png"
+"XWC","BTC","WhiteCoin","Bitcoin",1e-8,"BTC-XWC",true,"2014-04-14T00:00:00",,,"https://i.imgur.com/ZK80S7l.png"
+"MONA","BTC","MonaCoin","Bitcoin",1e-8,"BTC-MONA",true,"2014-04-18T22:00:00",,,"https://i.imgur.com/nO2Ynp2.png"
+"THC","BTC","HempCoin","Bitcoin",1e-8,"BTC-THC",true,"2014-04-29T21:00:00",,,"https://i.imgur.com/ds4JIGm.png"
+"ENRG","BTC","EnergyCoin","Bitcoin",1e-8,"BTC-ENRG",true,"2014-05-04T00:00:00",,,"https://i.imgur.com/4VDl7ak.png"
+"ERC","BTC","EuropeCoin","Bitcoin",1e-8,"BTC-ERC",true,"2014-05-10T17:00:00",,,"https://i.imgur.com/YuVLaz5.png"
+"VRC","BTC","VeriCoin","Bitcoin",1e-8,"BTC-VRC",true,"2014-05-13T07:00:00",,,"https://i.imgur.com/eCt8l7m.jpg"
+"CURE","BTC","CureCoin","Bitcoin",1e-8,"BTC-CURE",true,"2014-05-13T09:00:00",,,"https://i.imgur.com/HcfOdfe.png"
+"XMR","BTC","Monero","Bitcoin",1e-8,"BTC-XMR",true,"2014-06-04T07:38:39.24",,,"https://i.imgur.com/ZxFIRZR.png"
+"CLOAK","BTC","CloakCoin","Bitcoin",1e-8,"BTC-CLOAK",true,"2014-06-04T08:53:18.563",,,"https://i.imgur.com/Rcjn8mS.png"
+"START","BTC","StartCoin","Bitcoin",1e-8,"BTC-START",true,"2014-06-14T07:09:15.327",,,"https://i.imgur.com/lu2amOl.png"
+"KORE","BTC","KoreCoin","Bitcoin",1e-8,"BTC-KORE",true,"2014-06-17T05:46:29.303",,,"https://i.imgur.com/yh3osZw.png"
+"XDN","BTC","DigitalNote","Bitcoin",1e-8,"BTC-XDN",true,"2014-06-21T18:37:57.64",,,
+"TRUST","BTC","TrustPlus","Bitcoin",1e-8,"BTC-TRUST",true,"2014-07-07T05:46:18.71",,,"https://i.imgur.com/wqyiYLM.png"
+"NAV","BTC","NAVCoin","Bitcoin",1e-8,"BTC-NAV",true,"2014-07-08T03:37:28.39",,,"https://i.imgur.com/TNpUvdq.png"
+"XST","BTC","StealthCoin","Bitcoin",1e-8,"BTC-XST",true,"2014-07-09T20:33:00.59",,,"https://i.imgur.com/QMxojVf.png"
+"BTCD","BTC","BitcoinDark","Bitcoin",1e-8,"BTC-BTCD",true,"2014-07-14T06:05:04.567",,,"https://i.imgur.com/S75FAEs.png"
+"VIA","BTC","ViaCoin ","Bitcoin",1e-8,"BTC-VIA",true,"2014-07-18T00:20:00.393",,,"https://i.imgur.com/lM6Cwig.png"
+"UNO","BTC","Unobtanium","Bitcoin",1e-8,"BTC-UNO",true,"2014-07-23T20:58:41.35",,,"https://i.imgur.com/lKiqrBa.png"
+"PINK","BTC","PinkCoin","Bitcoin",1e-8,"BTC-PINK",true,"2014-07-29T07:41:09.4",,false,"https://i.imgur.com/sx4eLIY.png"
+"IOC","BTC","I/OCoin","Bitcoin",1e-8,"BTC-IOC",true,"2014-07-29T16:57:43.787",,,"https://i.imgur.com/ptDjPz2.png"
+"CANN","BTC","CannabisCoin","Bitcoin",1e-8,"BTC-CANN",true,"2014-08-10T06:48:44.83",,,"https://i.imgur.com/uJkJXh3.png"
+"SYS","BTC","SysCoin","Bitcoin",1e-8,"BTC-SYS",true,"2014-08-16T19:57:48.823",,,"https://i.imgur.com/0m3yZKs.png"
+"NEOS","BTC","NeosCoin","Bitcoin",1e-8,"BTC-NEOS",true,"2014-08-20T00:06:59.63",,false,"https://i.imgur.com/x2gSo1l.png"
+"DGB","BTC","Digibyte","Bitcoin",1e-8,"BTC-DGB",true,"2014-08-20T07:09:57.207",,,"https://imgur.com/8ni1FRC.png"
+"BURST","BTC","BURSTCoin","Bitcoin",1e-8,"BTC-BURST",true,"2014-09-16T07:41:56.047",,,
+"EXCL","BTC","ExclusiveCoin","Bitcoin",1e-8,"BTC-EXCL",true,"2014-09-28T20:33:27.633",,false,"https://i.imgur.com/HQa0euO.png"
+"SWIFT","BTC","Bitswift","Bitcoin",1e-8,"BTC-SWIFT",true,"2014-10-03T19:16:23.143",,,"https://i.imgur.com/VXCnEnA.png"
+"DOPE","BTC","DopeCoin","Bitcoin",1e-8,"BTC-DOPE",true,"2014-10-17T19:09:32.6",,,"https://i.imgur.com/nXCkJgS.png"
+"BLOCK","BTC","BlockNet","Bitcoin",1e-8,"BTC-BLOCK",true,"2014-10-29T06:45:03.97",,false,"https://i.imgur.com/r5eL9FQ.png"
+"ABY","BTC","ArtByte","Bitcoin",1e-8,"BTC-ABY",true,"2014-10-31T01:43:25.743",,false,"https://i.imgur.com/Z6Ver1p.png"
+"BYC","BTC","Bytecent","Bitcoin",1e-8,"BTC-BYC",true,"2014-11-03T19:02:45.96",,false,"https://i.imgur.com/Gc2ZgdQ.png"
+"XMG","BTC","Magi","Bitcoin",1e-8,"BTC-XMG",true,"2014-11-10T06:25:07.533",,,"https://i.imgur.com/1l83u8Z.png"
+"BLITZ","BTC","Blitzcash","Bitcoin",1e-8,"BTC-BLITZ",true,"2014-11-13T20:20:21.443",,,"https://i.imgur.com/3ENp2Sm.png"
+"BAY","BTC","BitBay","Bitcoin",1e-8,"BTC-BAY",true,"2014-11-18T17:34:21.083",,,"https://i.imgur.com/x0nRu4t.png"
+"BTS","BTC","BitShares","Bitcoin",1e-8,"BTC-BTS",true,"2014-11-24T08:18:16.53",,,"https://i.imgur.com/sDr7lnX.png"
+"FAIR","BTC","FairCoin","Bitcoin",1e-8,"BTC-FAIR",true,"2014-12-12T19:51:07.703",,false,"https://i.imgur.com/a07pdE1.png"
+"SPR","BTC","SpreadCoin","Bitcoin",1e-8,"BTC-SPR",true,"2014-12-19T02:33:07.747",,,"https://i.imgur.com/zYclAuk.png"
+"VTR","BTC","vTorrent","Bitcoin",1e-8,"BTC-VTR",true,"2014-12-19T02:33:10.943",,,"https://i.imgur.com/DbOE005.png"
+"XRP","BTC","Ripple","Bitcoin",1e-8,"BTC-XRP",true,"2014-12-22T19:30:27.45",,,"https://imgur.com/xOSAdNE.png"
+"GAME","BTC","GameCredits","Bitcoin",1e-8,"BTC-GAME",true,"2015-04-08T04:09:53.013",,,"https://i.imgur.com/hYkayO0.png"
+"COVAL","BTC","Circuits of Value","Bitcoin",1e-8,"BTC-COVAL",true,"2015-01-22T19:11:45.903",,,"https://imgur.com/UIamNeM.png"
+"NXS","BTC","Nexus","Bitcoin",1e-8,"BTC-NXS",true,"2015-01-25T03:00:35.143",,false,"https://i.imgur.com/VfIrWBE.png"
+"XCP","BTC","Counterparty","Bitcoin",1e-8,"BTC-XCP",true,"2015-02-14T04:20:41",,false,"https://i.imgur.com/fH6Nqjb.png"
+"BITB","BTC","BitBean","Bitcoin",1e-8,"BTC-BITB",true,"2015-02-15T23:07:32.777",,,"https://i.imgur.com/SOLFSI6.png"
+"GEO","BTC","GeoCoin","Bitcoin",1e-8,"BTC-GEO",true,"2015-02-21T03:29:43.267",,,"https://i.imgur.com/2sEmlIf.png"
+"FLDC","BTC","FoldingCoin","Bitcoin",1e-8,"BTC-FLDC",true,"2015-02-23T23:01:53.92",,,
+"GRC","BTC","GridCoin","Bitcoin",1e-8,"BTC-GRC",true,"2015-02-27T19:57:02.82",,,"https://i.imgur.com/HRnRvdJ.png"
+"FLO","BTC","Florin","Bitcoin",1e-8,"BTC-FLO",true,"2015-03-11T05:43:30.193",,,"https://i.imgur.com/Ykgy5P8.png"
+"NBT","BTC","Nubits","Bitcoin",1e-8,"BTC-NBT",true,"2015-04-08T03:57:37.33",,false,"https://i.imgur.com/oSpAs2J.png"
+"MUE","BTC","MonetaryUnit","Bitcoin",1e-8,"BTC-MUE",true,"2015-04-09T17:31:31.113",,false,"https://i.imgur.com/4j6SEOu.png"
+"XEM","BTC","NewEconomyMovement","Bitcoin",1e-8,"BTC-XEM",true,"2015-04-10T21:06:00.043",,,
+"CLAM","BTC","CLAMs","Bitcoin",1e-8,"BTC-CLAM",true,"2015-04-18T22:04:25.183",,,"https://i.imgur.com/FkyxJGJ.png"
+"DMD","BTC","Diamond","Bitcoin",1e-8,"BTC-DMD",true,"2015-05-01T17:31:24.97",,,"https://i.imgur.com/ZqhSfCv.png"
+"GAM","BTC","Gambit","Bitcoin",1e-8,"BTC-GAM",true,"2015-05-05T22:38:44.963",,false,"https://i.imgur.com/8GuULyT.png"
+"SPHR","BTC","Sphere","Bitcoin",1e-8,"BTC-SPHR",true,"2015-05-18T22:45:47.093",,,"https://i.imgur.com/SmSOYhw.png"
+"OK","BTC","OkCash","Bitcoin",1e-8,"BTC-OK",true,"2015-05-30T19:26:37.523",,,"https://i.imgur.com/rOeEycy.png"
+"SNRG","BTC","Synergy","Bitcoin",1e-8,"BTC-SNRG",true,"2015-06-03T06:27:04.623",,,"https://i.imgur.com/WLOlduu.png"
+"PKB","BTC","ParkByte","Bitcoin",1e-8,"BTC-PKB",true,"2015-06-03T06:31:14.35",,,"https://i.imgur.com/zkFyMX2.png"
+"CPC","BTC","CapriCoin","Bitcoin",1e-8,"BTC-CPC",true,"2015-07-25T06:30:32.53",,,"https://i.imgur.com/XNkVMfJ.png"
+"AEON","BTC","Aeon","Bitcoin",1e-8,"BTC-AEON",true,"2015-07-31T00:50:47.11",,,"https://i.imgur.com/qqG1aEv.png"
+"ETH","BTC","Ethereum","Bitcoin",1e-8,"BTC-ETH",true,"2015-08-14T09:02:24.817",,,"https://i.imgur.com/wRNT3aL.png"
+"GCR","BTC","GlobalCurrencyReserve","Bitcoin",1e-8,"BTC-GCR",true,"2015-08-24T00:25:28.933",,false,"https://i.imgur.com/qshllsw.png"
+"TX","BTC","TransferCoin","Bitcoin",1e-8,"BTC-TX",true,"2015-09-02T08:02:54.3",,,"https://i.imgur.com/4HEiaLw.png"
+"BCY","BTC","BitCrystals","Bitcoin",1e-8,"BTC-BCY",true,"2015-09-10T05:28:20.787",,,
+"EXP","BTC","Expanse","Bitcoin",1e-8,"BTC-EXP",true,"2015-09-16T17:10:15.253",,,"https://i.imgur.com/6WRepx7.jpg"
+"INFX","BTC","InfluxCoin","Bitcoin",1e-8,"BTC-INFX",true,"2015-10-03T20:41:41.403",,,"https://i.imgur.com/nlaG5W1.png"
+"OMNI","BTC","OMNI","Bitcoin",1e-8,"BTC-OMNI",true,"2015-11-03T19:13:33.197",,,
+"AMP","BTC","AMP","Bitcoin",1e-8,"BTC-AMP",true,"2015-11-03T19:13:55.18",,,
+"AGRS","BTC","IDNI Agoras","Bitcoin",1e-8,"BTC-AGRS",true,"2015-11-10T00:53:59.643",,,"https://i.imgur.com/nvMLcJ4.png"
+"XLM","BTC","Lumen","Bitcoin",1e-8,"BTC-XLM",true,"2015-11-17T20:06:44.92",,,"https://i.imgur.com/23iHV3Y.png"
+"BTA","BTC","Bata","Bitcoin",1e-8,"BTC-BTA",true,"2015-11-20T01:20:24.253",,,"https://i.imgur.com/8E5vrAu.png"
+"BTC","USDT","Bitcoin","Tether",1e-8,"USDT-BTC",true,"2015-12-11T06:31:40.633",,,
+"CLUB","BTC","ClubCoin","Bitcoin",1e-8,"BTC-CLUB",true,"2015-12-18T00:30:10.31",,,"https://i.imgur.com/9lXxXl4.png"
+"VOX","BTC","Voxels","Bitcoin",1e-8,"BTC-VOX",true,"2015-12-30T04:21:47.31",,,"https://i.imgur.com/zc7zHaX.png"
+"EMC","BTC","EmerCoin","Bitcoin",1e-8,"BTC-EMC",true,"2016-01-06T05:28:04.553",,,"https://i.imgur.com/EYd8gAO.png"
+"FCT","BTC","Factom","Bitcoin",1e-8,"BTC-FCT",true,"2016-01-09T03:47:07.803",,,"https://i.imgur.com/7suKqVx.png"
+"MAID","BTC","MaidSafe","Bitcoin",1e-8,"BTC-MAID",true,"2016-01-18T20:38:22.707",,,"https://i.imgur.com/IFLMRIz.png"
+"EGC","BTC","EverGreenCoin","Bitcoin",1e-8,"BTC-EGC",true,"2016-01-18T21:01:43.837",,,"https://i.imgur.com/3qsC7ab.png"
+"SLS","BTC","SaluS","Bitcoin",1e-8,"BTC-SLS",true,"2016-01-20T22:24:04.65",,,"https://i.imgur.com/opX9BCp.png"
+"RADS","BTC","Radium","Bitcoin",1e-8,"BTC-RADS",true,"2016-01-26T23:22:16.193",,,"https://i.imgur.com/ai2M18U.png"
+"DCR","BTC","Decred","Bitcoin",1e-8,"BTC-DCR",true,"2016-02-09T21:06:51.577",,,"https://i.imgur.com/8kqUxCm.png"
+"SAFEX","BTC","SafeExchangeCoin","Bitcoin",1e-8,"BTC-SAFEX",true,"2016-02-13T22:14:21.14",,,"https://i.imgur.com/U3cgTtQ.png"
+"BSD","BTC","BitSend","Bitcoin",1e-8,"BTC-BSD",true,"2016-02-17T00:54:23.677",,false,"https://i.imgur.com/kN75MXH.png"
+"XVG","BTC","Verge","Bitcoin",1e-8,"BTC-XVG",true,"2016-02-17T22:42:03.61",,false,"https://i.imgur.com/KAqtWIW.png"
+"PIVX","BTC","Pivx","Bitcoin",1e-8,"BTC-PIVX",true,"2016-03-02T20:45:37.987",,,"https://i.imgur.com/qyZpJ2r.png"
+"XVC","BTC","Vcash","Bitcoin",1e-8,"BTC-XVC",true,"2016-03-12T19:37:38.863",,,"https://i.imgur.com/vlJJkqH.png"
+"MEME","BTC","Memetic","Bitcoin",1e-8,"BTC-MEME",true,"2016-04-01T18:24:07.207",,,"https://i.imgur.com/FJDqzq4.png"
+"STEEM","BTC","STEEM","Bitcoin",1e-8,"BTC-STEEM",true,"2016-04-17T01:22:13.35",,false,"https://i.imgur.com/kJDHkhv.png"
+"2GIVE","BTC","2GIVE","Bitcoin",1e-8,"BTC-2GIVE",true,"2016-05-16T06:44:15.287",,false,"https://i.imgur.com/DojhxAo.png"
+"LSK","BTC","Lisk","Bitcoin",1e-8,"BTC-LSK",true,"2016-05-24T18:49:52.77",,false,"https://i.imgur.com/MWxqFcv.png"
+"PDC","BTC","Project Decorum","Bitcoin",1e-8,"BTC-PDC",true,"2016-06-02T04:39:35.21",,,
+"BRK","BTC","Breakout","Bitcoin",1e-8,"BTC-BRK",true,"2016-06-13T02:27:33.34",,,"https://imgur.com/dCqqggS.png"
+"DGD","BTC","DigixDAO","Bitcoin",1e-8,"BTC-DGD",true,"2016-06-14T16:25:12.063",,,"https://imgur.com/JFbUhak.png"
+"DGD","ETH","Digix DAO","Ethereum",1e-8,"ETH-DGD",true,"2016-06-17T18:51:39.087",,,"https://imgur.com/JFbUhak.png"
+"WAVES","BTC","Waves","Bitcoin",1e-8,"BTC-WAVES",true,"2016-06-19T15:46:31.167",,,"https://i.imgur.com/RFQiQZB.png"
+"RISE","BTC","Rise","Bitcoin",1e-8,"BTC-RISE",true,"2016-06-24T17:00:00.043",,false,"https://i.imgur.com/lZo0plv.png"
+"LBC","BTC","LBRY Credits","Bitcoin",1e-8,"BTC-LBC",true,"2016-07-05T21:50:07.81",,,"https://i.imgur.com/qAkfEiH.png"
+"SBD","BTC","SteemDollars","Bitcoin",1e-8,"BTC-SBD",true,"2016-07-09T19:02:08.943",,,"https://i.imgur.com/kJDHkhv.png"
+"BRX","BTC","Breakout Stake","Bitcoin",0.01,"BTC-BRX",true,"2016-07-10T21:25:05.127",,,"https://imgur.com/MAS7HbD.png"
+"DRACO","BTC","DT Token","Bitcoin",1e-8,"BTC-DRACO",true,"2016-07-23T19:02:39.123",,false,"https://i.imgur.com/7GpVrLy.png"
+"ETC","BTC","Ethereum Classic","Bitcoin",0.01,"BTC-ETC",true,"2016-07-26T18:10:22.82",,,"https://imgur.com/ttYR5E8.png"
+"ETC","ETH","Ethereum Classic","Ethereum",1e-8,"ETH-ETC",true,"2016-07-28T21:45:59.05",,,"https://imgur.com/ttYR5E8.png"
+"STRAT","BTC","Stratis","Bitcoin",1e-8,"BTC-STRAT",true,"2016-08-10T23:26:39.657",,,"https://i.imgur.com/cOBpH4p.png"
+"UNB","BTC","UnbreakableCoin","Bitcoin",1e-8,"BTC-UNB",true,"2016-08-24T21:39:28.357",,,"https://i.imgur.com/LULMV74.png"
+"SYNX","BTC","Syndicate","Bitcoin",1e-8,"BTC-SYNX",true,"2016-08-25T21:23:15.27",,,"https://i.imgur.com/Z9WODkE.png"
+"TRIG","BTC","TRIG Token","Bitcoin",1e-8,"BTC-TRIG",true,"2016-09-08T05:59:08.183",,,"https://i.imgur.com/RoM9XUq.png"
+"EBST","BTC","eBoost","Bitcoin",1e-8,"BTC-EBST",true,"2016-09-15T15:47:38.92",,,
+"VRM","BTC","Verium","Bitcoin",1e-8,"BTC-VRM",true,"2016-09-16T04:52:17.637",,,"https://i.imgur.com/LVZTnav.png"
+"SEQ","BTC","Sequence","Bitcoin",1e-8,"BTC-SEQ",true,"2016-09-23T07:10:11.78",,,"https://i.imgur.com/fhdX3zL.png"
+"XAUR","BTC","Xaurum","Bitcoin",1e-8,"BTC-XAUR",true,"2016-09-25T00:15:16.103",,,"https://i.imgur.com/iP8uGaL.png"
+"SNGLS","BTC","SingularDTV","Bitcoin",1e-8,"BTC-SNGLS",true,"2016-10-02T22:16:04.773",,,"https://i.imgur.com/O6xbptk.png"
+"REP","BTC","Augur","Bitcoin",1e-8,"BTC-REP",true,"2016-10-04T15:45:37.14",,,"https://i.imgur.com/WMTQY06.png"
+"SHIFT","BTC","Shift","Bitcoin",1e-8,"BTC-SHIFT",true,"2016-10-11T19:48:35.573",,,"https://i.imgur.com/3cHabsi.png"
+"ARDR","BTC","Ardor","Bitcoin",1e-8,"BTC-ARDR",true,"2016-10-13T18:59:37.407",,,"https://i.imgur.com/ZIynKnO.png"
+"XZC","BTC","ZCoin","Bitcoin",1e-8,"BTC-XZC",true,"2016-10-20T04:48:30.387",,,"https://i.imgur.com/TmnXkLz.png"
+"NEO","BTC","Neo","Bitcoin",1e-8,"BTC-NEO",true,"2016-10-26T01:28:31.96",,,"https://i.imgur.com/FOfFJvc.jpg"
+"ZEC","BTC","Zcash","Bitcoin",1e-8,"BTC-ZEC",true,"2016-10-28T17:13:10.833",,,"https://i.imgur.com/vGwurP0.png"
+"ZCL","BTC","Zclassic","Bitcoin",1e-8,"BTC-ZCL",true,"2016-11-15T20:29:59.73",,,"https://i.imgur.com/Pl0N4rt.png"
+"IOP","BTC","Internet Of People","Bitcoin",1e-8,"BTC-IOP",true,"2016-12-22T00:54:23.477",,,"https://i.imgur.com/CFcBgdt.png"
+"DAR","BTC","Darcrus","Bitcoin",1e-8,"BTC-DAR",true,"2016-12-22T02:42:44.38",,,"https://imgur.com/CGybw29.png"
+"GOLOS","BTC","Golos","Bitcoin",1e-8,"BTC-GOLOS",true,"2017-01-19T23:23:12.41",,,"https://i.imgur.com/VTTdfx8.png"
+"UBQ","BTC","Ubiq","Bitcoin",1e-8,"BTC-UBQ",true,"2017-02-08T17:00:59.02",,,"https://imgur.com/t58iSZO.png"
+"KMD","BTC","Komodo","Bitcoin",1e-8,"BTC-KMD",true,"2017-02-11T23:04:01.853",,,"https://i.imgur.com/XDlrwj3.png"
+"GBG","BTC","GBG","Bitcoin",1e-8,"BTC-GBG",true,"2017-02-12T00:38:21.023",,,
+"SIB","BTC","Siberian Chervonets","Bitcoin",1e-8,"BTC-SIB",true,"2017-02-18T22:34:49.373",,,"https://i.imgur.com/4WzM5WE.png"
+"ION","BTC","Ion","Bitcoin",1e-8,"BTC-ION",true,"2017-02-18T23:41:17.04",,,"https://i.imgur.com/nhPSyEy.png"
+"LMC","BTC","Lomocoin","Bitcoin",1e-8,"BTC-LMC",true,"2017-02-18T23:55:53.153",,,"https://i.imgur.com/IoHJbeQ.png"
+"QWARK","BTC","Qwark","Bitcoin",1e-8,"BTC-QWARK",true,"2017-03-05T19:30:16.853",,,"https://imgur.com/3yDLSvX.png"
+"CRW","BTC","Crown","Bitcoin",1e-8,"BTC-CRW",true,"2017-03-06T21:10:15.663",,,"https://i.imgur.com/l6kX0D3.png"
+"SWT","BTC","Swarm City Token","Bitcoin",1e-8,"BTC-SWT",true,"2017-03-08T22:32:26.03",,,"https://i.imgur.com/WOEF1Y7.png"
+"TIME","BTC","Chronobank Time","Bitcoin",1e-8,"BTC-TIME",true,"2017-03-09T00:44:08.673",,,"https://i.imgur.com/1MRspuL.png"
+"MLN","BTC","Melon","Bitcoin",1e-8,"BTC-MLN",true,"2017-03-15T19:30:56.167",,,"https://i.imgur.com/OCRrRvV.png"
+"ARK","BTC","Ark","Bitcoin",1e-8,"BTC-ARK",true,"2017-03-21T18:11:29.347",,,"https://i.imgur.com/kxIDVaw.png"
+"DYN","BTC","Dynamic","Bitcoin",1e-8,"BTC-DYN",true,"2017-03-23T00:10:19.403",,,"https://i.imgur.com/Nkq5FF3.png"
+"TKS","BTC","Tokes","Bitcoin",1e-8,"BTC-TKS",true,"2017-03-23T00:48:15.94",,,"https://i.imgur.com/hNascYU.png"
+"MUSIC","BTC","Musicoin","Bitcoin",1e-8,"BTC-MUSIC",true,"2017-03-27T19:59:13.073",,,"https://i.imgur.com/tq9ZdXN.png"
+"DTB","BTC","Databits","Bitcoin",1e-8,"BTC-DTB",true,"2017-04-01T04:06:13.887",,,"https://i.imgur.com/QfLWcZZ.png"
+"INCNT","BTC","Incent","Bitcoin",1e-8,"BTC-INCNT",true,"2017-04-04T21:20:51.083",,,"https://i.imgur.com/iTECw3J.png"
+"GBYTE","BTC","Byteball","Bitcoin",1e-8,"BTC-GBYTE",true,"2017-04-13T20:46:39.83",,,"https://i.imgur.com/2mFZo3r.png"
+"GNT","BTC","Golem","Bitcoin",1e-8,"BTC-GNT",true,"2017-04-17T21:35:59.26",,,
+"NXC","BTC","Nexium","Bitcoin",1e-8,"BTC-NXC",true,"2017-04-17T22:51:08.97",,,
+"EDG","BTC","Edgeless","Bitcoin",1e-8,"BTC-EDG",true,"2017-04-18T00:56:59.243",,,
+"LGD","BTC","Legends","Bitcoin",1e-8,"BTC-LGD",true,"2017-04-18T07:37:41.3",,,"https://imgur.com/o5kYbVc.png"
+"TRST","BTC","Trustcoin","Bitcoin",1e-8,"BTC-TRST",true,"2017-04-19T04:53:43.893",,,"https://i.imgur.com/mKDrYqW.png"
+"GNT","ETH","Golem","Ethereum",1e-8,"ETH-GNT",true,"2017-04-20T06:38:51.877",,,
+"REP","ETH","Augur","Ethereum",1e-8,"ETH-REP",true,"2017-04-20T06:43:49.19",,,
+"ETH","USDT","Ethereum","Tether",1e-8,"USDT-ETH",true,"2017-04-20T17:26:37.647",,,
+"WINGS","ETH","Wings DAO","Ethereum",1e-8,"ETH-WINGS",true,"2017-04-26T22:16:06.627",,,"https://i.imgur.com/PmsvEeY.png"
+"WINGS","BTC","Wings DAO","Bitcoin",1e-8,"BTC-WINGS",true,"2017-04-26T22:34:24.49",,,"https://i.imgur.com/PmsvEeY.png"
+"RLC","BTC","iEx.ec","Bitcoin",1e-8,"BTC-RLC",true,"2017-04-27T00:20:33.857",,,"https://i.imgur.com/bLz4sKC.png"
+"GNO","BTC","Gnosis","Bitcoin",1e-8,"BTC-GNO",true,"2017-04-28T02:43:12",,,"https://i.imgur.com/mpBvVJM.png"
+"GUP","BTC","Guppy","Bitcoin",1e-8,"BTC-GUP",true,"2017-04-29T18:08:12.39",,,"https://i.imgur.com/WltPwop.png"
+"LUN","BTC","Lunyr","Bitcoin",1e-8,"BTC-LUN",true,"2017-04-30T16:57:03.27",,,"https://i.imgur.com/kvey6fE.png"
+"GUP","ETH","Guppy","Ethereum",1e-8,"ETH-GUP",true,"2017-04-30T18:40:42.213",,,
+"RLC","ETH","iEx.ec","Ethereum",1e-8,"ETH-RLC",true,"2017-04-30T18:41:22.823",,,
+"LUN","ETH","Lunyr","Ethereum",1e-8,"ETH-LUN",true,"2017-04-30T18:41:22.84",,,
+"SNGLS","ETH","SingularDTV","Ethereum",1e-8,"ETH-SNGLS",true,"2017-04-30T18:41:22.853",,,
+"GNO","ETH","Gnosis","Ethereum",1e-8,"ETH-GNO",true,"2017-04-30T18:42:52.17",,,
+"APX","BTC","Apx","Bitcoin",1e-8,"BTC-APX",true,"2017-05-02T06:26:32.897",,,"https://i.imgur.com/Y10JXU2.png"
+"TKN","BTC","TokenCard","Bitcoin",1e-8,"BTC-TKN",true,"2017-05-08T17:09:34.91",,,
+"TKN","ETH","TokenCard","Ethereum",1e-8,"ETH-TKN",true,"2017-05-09T04:43:46.723",,,
+"HMQ","BTC","Humaniq","Bitcoin",1e-8,"BTC-HMQ",true,"2017-05-10T00:02:47.373",,,"https://i.imgur.com/RcXiILK.png"
+"HMQ","ETH","Humaniq","Ethereum",1e-8,"ETH-HMQ",true,"2017-05-10T07:27:27.597",,,"https://i.imgur.com/RcXiILK.png"
+"ANT","BTC","Aragon","Bitcoin",1e-8,"BTC-ANT",true,"2017-05-17T19:54:30.143",,,"https://i.imgur.com/H1RlVe2.png"
+"TRST","ETH","Trustcoin","Ethereum",1e-8,"ETH-TRST",true,"2017-05-19T15:55:11.28",,,
+"ANT","ETH","Aragon","Ethereum",1e-8,"ETH-ANT",true,"2017-05-19T15:55:11.293",,,
+"SC","BTC","Siacoin","Bitcoin",1e-8,"BTC-SC",true,"2017-05-22T21:30:29.16",,,"https://i.imgur.com/XiSQgV4.png"
+"BAT","ETH","Basic Attention Token","Ethereum",1e-8,"ETH-BAT",true,"2017-06-03T22:04:52.38",,,
+"BAT","BTC","Basic Attention Token","Bitcoin",1e-8,"BTC-BAT",true,"2017-06-03T22:04:53.82",,,"https://i.imgur.com/0RMUUPE.png"
+"ZEN","BTC","Zencash","Bitcoin",1e-8,"BTC-ZEN",true,"2017-06-05T16:39:49.07",,,"https://i.imgur.com/1QZLjXO.png"
+"1ST","BTC","FirstBlood","Bitcoin",1e-8,"BTC-1ST",true,"2017-06-06T01:22:35.727",,,"https://i.imgur.com/VFSYp8t.png"
+"QRL","BTC","Quantum Resistant Ledger","Bitcoin",1e-8,"BTC-QRL",true,"2017-06-10T00:01:39.293",,,"https://i.imgur.com/Qe9UMI6.png"
+"1ST","ETH","Firstblood","Ethereum",1e-8,"ETH-1ST",true,"2017-06-11T17:33:06.127",,,
+"QRL","ETH","Quantum Resistant Ledger","Ethereum",1e-8,"ETH-QRL",true,"2017-06-11T17:33:06.14",,,
+"CRB","BTC","CreditBit","Bitcoin",1e-8,"BTC-CRB",true,"2017-06-13T19:40:35.203",,,"https://i.imgur.com/vE1S0tR.png"
+"CRB","ETH","CreditBit","Ethereum",1e-8,"ETH-CRB",true,"2017-06-13T19:40:35.217",,,
+"LGD","ETH","Legends","Ethereum",1e-8,"ETH-LGD",true,"2017-06-17T15:02:02.783",,,"https://imgur.com/o5kYbVc.png"
+"PTOY","BTC","Patientory","Bitcoin",1e-8,"BTC-PTOY",true,"2017-06-18T17:04:24.1",,,"https://i.imgur.com/5fOAQe3.png"
+"PTOY","ETH","Patientory","Ethereum",1e-8,"ETH-PTOY",true,"2017-06-18T17:04:24.147",,,
+"MYST","BTC","Mysterium","Bitcoin",1e-8,"BTC-MYST",true,"2017-06-19T19:13:43.73",,,"https://i.imgur.com/0aMeKX3.png"
+"MYST","ETH","Mysterium","Ethereum",1e-8,"ETH-MYST",true,"2017-06-19T19:13:43.743",,,
+"CFI","BTC","Cofound.it","Bitcoin",1e-8,"BTC-CFI",true,"2017-06-19T19:59:14.78",,,"https://i.imgur.com/f11rds7.png"
+"CFI","ETH","Cofound.it","Ethereum",1e-8,"ETH-CFI",true,"2017-06-19T19:59:14.89",,,
+"BNT","BTC","Bancor","Bitcoin",1e-8,"BTC-BNT",true,"2017-06-22T21:36:30.85",,,"https://i.imgur.com/mjpKQ2C.png"
+"BNT","ETH","Bancor","Ethereum",1e-8,"ETH-BNT",true,"2017-06-22T21:36:30.867",,,
+"NMR","BTC","Numeraire","Bitcoin",1e-8,"BTC-NMR",true,"2017-06-22T21:58:57.657",,,"https://i.imgur.com/aVjquvX.png"
+"NMR","ETH","Numeraire","Ethereum",1e-8,"ETH-NMR",true,"2017-06-22T21:58:57.657",,,
+"TIME","ETH","Time","Ethereum",1e-8,"ETH-TIME",true,"2017-06-23T18:01:03.323",,,
+"LTC","ETH","Litecoin","Ethereum",1e-8,"ETH-LTC",true,"2017-06-25T03:06:46.83",,,
+"XRP","ETH","Ripple","Ethereum",1e-8,"ETH-XRP",true,"2017-06-25T03:07:09.677",,,
+"SNT","BTC","Status Network Token","Bitcoin",1e-8,"BTC-SNT",true,"2017-06-28T18:26:15.73",,,"https://i.imgur.com/l00uKWc.png"
+"SNT","ETH","Status Network Token","Ethereum",1e-8,"ETH-SNT",true,"2017-06-28T18:26:15.747",,,
+"DCT","BTC","DECENT","Bitcoin",1e-8,"BTC-DCT",true,"2017-06-30T16:35:24.643",,,"https://i.imgur.com/JOatWWD.png"
+"XEL","BTC","Elastic","Bitcoin",1e-8,"BTC-XEL",true,"2017-07-01T17:38:44.883",,,"https://i.imgur.com/uTOWr5A.png"
+"MCO","BTC","Monaco","Bitcoin",1e-8,"BTC-MCO",true,"2017-07-02T00:37:16.957",,,"https://i.imgur.com/dtPm1Ue.png"
+"MCO","ETH","Monaco","Ethereum",1e-8,"ETH-MCO",true,"2017-07-02T00:37:17.05",,,
+"ADT","BTC","adToken","Bitcoin",1e-8,"BTC-ADT",true,"2017-07-03T21:08:06.11",,,"https://i.imgur.com/jv5rqFV.png"
+"ADT","ETH","adToken","Ethereum",1e-8,"ETH-ADT",true,"2017-07-03T21:08:06.22",,,
+"FUN","BTC","FunFair","Bitcoin",1e-8,"BTC-FUN",true,"2017-07-04T18:45:47.13",,,"https://i.imgur.com/LRLvqKr.png"
+"FUN","ETH","FunFair","Ethereum",1e-8,"ETH-FUN",true,"2017-07-04T18:45:47.143",,,
+"PAY","BTC","TenX Pay Token","Bitcoin",1e-8,"BTC-PAY",true,"2017-07-07T07:14:00.793",,,"https://i.imgur.com/TLucdQT.png"
+"PAY","ETH","TenX Pay Token","Ethereum",1e-8,"ETH-PAY",true,"2017-07-07T07:14:00.873",,,
+"MTL","BTC","Metal","Bitcoin",1e-8,"BTC-MTL",true,"2017-07-08T14:59:57.34",,,"https://i.imgur.com/Lyp3abw.png"
+"MTL","ETH","Metal","Ethereum",1e-8,"ETH-MTL",true,"2017-07-08T14:59:57.37",,,
+"STORJ","BTC","Storj","Bitcoin",1e-8,"BTC-STORJ",true,"2017-07-11T21:14:32.643",,,"https://i.imgur.com/xiEC31X.png"
+"STORJ","ETH","Storj","Ethereum",1e-8,"ETH-STORJ",true,"2017-07-11T21:14:32.643",,,
+"ADX","BTC","AdEx","Bitcoin",1e-8,"BTC-ADX",true,"2017-07-11T22:42:17.78",,,"https://i.imgur.com/CbOTsIi.png"
+"ADX","ETH","AdEx","Ethereum",1e-8,"ETH-ADX",true,"2017-07-11T22:42:17.78",,,
+"DASH","ETH","Dash","Ethereum",1e-8,"ETH-DASH",true,"2017-07-14T17:10:05.143",,,
+"SC","ETH","Siacoin","Ethereum",1e-8,"ETH-SC",true,"2017-07-14T17:10:07.74",,,
+"ZEC","ETH","ZCash","Ethereum",1e-8,"ETH-ZEC",true,"2017-07-14T17:10:07.8",,,
+"ZEC","USDT","ZCash","Tether",1e-8,"USDT-ZEC",true,"2017-07-14T17:10:10.673",,,
+"LTC","USDT","Litecoin","Tether",1e-8,"USDT-LTC",true,"2017-07-14T17:10:10.72",,,
+"ETC","USDT","Ethereum Classic","Tether",1e-8,"USDT-ETC",true,"2017-07-14T17:10:10.72",,,
+"XRP","USDT","Ripple","Tether",1e-8,"USDT-XRP",true,"2017-07-14T17:10:10.737",,,
+"OMG","BTC","OmiseGO","Bitcoin",1e-8,"BTC-OMG",true,"2017-07-16T17:07:42.313",,,"https://i.imgur.com/Bms5o86.png"
+"OMG","ETH","OmiseGO","Ethereum",1e-8,"ETH-OMG",true,"2017-07-16T17:07:42.41",,,
+"CVC","BTC","Civic","Bitcoin",1e-8,"BTC-CVC",true,"2017-07-16T23:04:18.867",,,"https://i.imgur.com/pNOmCYL.png"
+"CVC","ETH","Civic","Ethereum",1e-8,"ETH-CVC",true,"2017-07-16T23:04:18.99",,,
+"PART","BTC","Particl","Bitcoin",1e-8,"BTC-PART",true,"2017-07-20T18:19:07.157",,,"https://i.imgur.com/Ozi6wZN.png"
+"QTUM","BTC","Qtum","Bitcoin",1e-8,"BTC-QTUM",true,"2017-07-20T19:08:43.473",,false,"https://i.imgur.com/n7pobgZ.png"
+"QTUM","ETH","Qtum","Ethereum",1e-8,"ETH-QTUM",true,"2017-07-20T19:08:43.473",,false,
+"XMR","ETH","Monero","Ethereum",1e-8,"ETH-XMR",true,"2017-07-21T01:08:49.367",,,
+"XEM","ETH","NewEconomyMovement","Ethereum",1e-8,"ETH-XEM",true,"2017-07-21T01:08:49.38",,,
+"XLM","ETH","Lumen","Ethereum",1e-8,"ETH-XLM",true,"2017-07-21T01:08:49.38",,,
+"NEO","ETH","Neo","Ethereum",1e-8,"ETH-NEO",true,"2017-07-21T01:08:49.397",,,
+"XMR","USDT","Monero","Tether",1e-8,"USDT-XMR",true,"2017-07-21T01:08:49.397",,,
+"DASH","USDT","Dash","Tether",1e-8,"USDT-DASH",true,"2017-07-21T01:08:49.413",,,
+"BCC","ETH","Bitcoin Cash","Ethereum",1e-8,"ETH-BCC",true,"2017-08-01T18:34:04.763",,,
+"BCC","USDT","Bitcoin Cash","Tether",1e-8,"USDT-BCC",true,"2017-08-01T18:34:04.873",,,
+"BCC","BTC","Bitcoin Cash","Bitcoin",1e-8,"BTC-BCC",true,"2017-08-01T18:34:04.967",,,
+"NEO","USDT","Neo","Tether",1e-8,"USDT-NEO",true,"2017-08-04T16:58:43.087",,,
+"WAVES","ETH","Waves","Ethereum",1e-8,"ETH-WAVES",true,"2017-08-04T18:00:50.15",,,
+"STRAT","ETH","Stratis","Ethereum",1e-8,"ETH-STRAT",true,"2017-08-04T18:01:27.713",,,
+"DGB","ETH","Digibyte","Ethereum",1e-8,"ETH-DGB",true,"2017-08-04T18:01:27.777",,,
+"FCT","ETH","Factom","Ethereum",1e-8,"ETH-FCT",true,"2017-08-04T18:01:27.853",,,
+"BTS","ETH","Bitshares","Ethereum",1e-8,"ETH-BTS",true,"2017-08-04T18:01:27.853",,,
