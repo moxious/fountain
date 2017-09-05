@@ -12,13 +12,9 @@ This project is generated from the [node-typescript-seed](https://github.com/UIU
 - [Contribute](#contribute)
 - [Report Issues](#report-issues)
 
-# Install
+# Setup
 
-Install using npm or yarn.
-
-```bash
-    yarn add fountain
-```
+`yarn install`
 
 # API
 TODO - document your api here
@@ -29,8 +25,14 @@ TODO - document your api here
 
 ```typescript
 
-    // How to use
-
+export FOUNTAIN_ACCESS_KEY_ID=(yours here)
+export FOUNTAIN_SECRET_ACCESS_KEY=(yours here)
+export FOUNTAIN_BITTREX_API_KEY=(yours here)
+export FOUNTAIN_BITTREX_API_SECRET=(yours here)
+export FOUNTAIN_COINBASE_API_KEY=(yours here)
+export FOUNTAIN_COINBASE_API_SECRET=(yours here)
+export FOUNTAIN_POLONIEX_API_KEY=(yours here)
+export FOUNTAIN_POLONIEX_API_SECRET=(yours here)
 ```
 
 ## feature
