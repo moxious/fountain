@@ -7,6 +7,7 @@ import { Exchange } from '../models/Exchange';
 
 const ONE_HOUR_IN_MS = 1000 * 60 * 60;
 
+// API docs: https://poloniex.com/support/api/
 export class Poloniex extends Exchange {
   public static BASE_URL = 'https://poloniex.com';
 
