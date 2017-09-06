@@ -3,6 +3,7 @@ import { Exchange } from './models/Exchange';
 import { Bittrex } from './bittrex';
 import { Poloniex } from './poloniex';
 import { Coinbase } from './coinbase';
+import { Shapeshift } from './shapeshift';
 
 import * as yargs from 'yargs';
 
@@ -22,6 +23,7 @@ const providers: ExchangeMap = {
   poloniex: new Poloniex(),
   coinbase: new Coinbase(),
   bittrex: new Bittrex(),
+  shapeshift: new Shapeshift(),
 };
 
 const chosen = providers[provider];

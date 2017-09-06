@@ -15,6 +15,7 @@ import {
 } from '../models/fields';
 import { Currency, CurrencyCSV, MarketCSV } from './interfaces';
 
+// Bittrex API: https://bittrex.com/home/api
 export class Bittrex extends Exchange {
   public logfile: string = 'bittrex-log.json';
   private s3: AWS.S3 = null;

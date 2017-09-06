@@ -2,6 +2,7 @@ import * as coinbase from 'coinbase';
 import { env } from '../env';
 import { Exchange } from '../models/Exchange';
 
+// Coinbase API: https://developers.coinbase.com
 export class Coinbase extends Exchange {
   protected client: any = null;
   constructor() {
