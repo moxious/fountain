@@ -4,6 +4,7 @@ import { Bittrex } from './bittrex';
 import { Poloniex } from './poloniex';
 import { Coinbase } from './coinbase';
 import { Shapeshift } from './shapeshift';
+import { Kraken } from './kraken';
 
 import * as yargs from 'yargs';
 
@@ -24,6 +25,7 @@ const providers: ExchangeMap = {
   coinbase: new Coinbase(),
   bittrex: new Bittrex(),
   shapeshift: new Shapeshift(),
+  kraken: new Kraken(),
 };
 
 const chosen = providers[provider];
@@ -37,8 +39,6 @@ if (supported.indexOf(operation) === -1) {
   console.error(`Unsupported operation; for ${provider} please choose one of ${supported}`);
   process.exit(1);
 }
-
-console.log('Running ', operation, 'with', yargs.argv._);
 
 // Pass unnamed args
 (chosen as any)[operation](...yargs.argv._)
